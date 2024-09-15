@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: DEATHGUN
+    env: node
+    branch: main
+    repo: https://github.com/Deathsgun0001/Deathgun.git
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
+    autoDeploy: false
+    envVars:
+      - key: SESSION_ID
+        sync: false
+      - key: STATUS_VIEW_SEEN
+        value: true
+      - key: MODE
+        value: public
+      - key: AUTO_REACT
+        value: false
