@@ -85,7 +85,7 @@
 ## Do you need help
 ___
 This is the section that provides help. 
-- [JOIN GROUP FOR UPDATES](https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo)
+- [JOIN GROUP FOR UPDATES](https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9)
 
 * [`STIGMA SASAKI`](https://wa.me/224610303003?text=Hi+Bro+Rayan+Big+Fan😍)
 * [`AKASHI SASAKI`](https://wa.me/242067274660?text=Hi+Bro+Giffareno+Big+Fan😍)
